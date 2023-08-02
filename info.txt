@@ -1,1 +1,2 @@
 This is info text for secRepo
+Added this line after first commit
